@@ -25,4 +25,4 @@ D:\ProjectPRN211\WPF\obj\Debug\net8.0-windows\WPF.csproj.Up2Date
 D:\ProjectPRN211\WPF\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
 D:\ProjectPRN211\WPF\obj\Debug\net8.0-windows\Login.g.cs
 D:\ProjectPRN211\WPF\obj\Debug\net8.0-windows\Login.baml
-D:\ProjectPRN211\WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ProjectPRN211\WPF\obj\Debug\net8.0-windows\WPF.sourcelink.json

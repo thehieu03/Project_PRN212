@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\ProjectPRN211\\WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\projectprn211context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\bookborrowingregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A18B597-CDE2-48BD-90C0-9E74F898A215}|..\\ViewModel\\ViewModel.csproj|d:\\projectprn211\\viewmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9344D086-E8B5-40C6-989D-A3F9F5584B4A}|..\\Responsitories\\Responsitories.csproj|d:\\projectprn211\\responsitories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,26 +43,8 @@
       "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\projectprn211context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\bookborrowingregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -76,19 +82,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\ViewModel\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ViewModel\\Class1.cs",
+              "ToolTip": "D:\\ProjectPRN211\\ViewModel\\Class1.cs",
+              "RelativeToolTip": "..\\ViewModel\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:19:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\Responsitories\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Responsitories\\Class1.cs",
+              "ToolTip": "D:\\ProjectPRN211\\Responsitories\\Class1.cs",
+              "RelativeToolTip": "..\\Responsitories\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:17:21.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.xaml.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Login.xaml.cs",
               "RelativeDocumentMoniker": "Login.xaml.cs",
               "ToolTip": "D:\\ProjectPRN211\\WPF\\Login.xaml.cs",
               "RelativeToolTip": "Login.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T01:08:22.507Z"
+              "WhenOpened": "2024-10-06T01:08:22.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\ViewModel\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
@@ -96,23 +129,24 @@
               "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T00:55:51.194Z"
+              "WhenOpened": "2024-10-06T00:55:51.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Login.xaml",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Login.xaml",
               "RelativeDocumentMoniker": "Login.xaml",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\Login.xaml*",
-              "RelativeToolTip": "Login.xaml*",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-06T00:52:28.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -120,11 +154,12 @@
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T00:51:19.501Z"
+              "WhenOpened": "2024-10-06T00:51:19.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -136,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ProjectPRN211\\BussinessObject\\appsettings.json",
               "RelativeDocumentMoniker": "..\\BussinessObject\\appsettings.json",
@@ -144,7 +179,8 @@
               "RelativeToolTip": "..\\BussinessObject\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-04T19:43:55.591Z"
+              "WhenOpened": "2024-10-04T19:43:55.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,23 +192,25 @@
               "RelativeToolTip": "..\\BussinessObject\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:43:25.47Z"
+              "WhenOpened": "2024-10-04T19:43:25.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProjectPrn211Context.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\BussinessObject\\Models\\ProjectPrn211Context.cs",
               "RelativeDocumentMoniker": "..\\BussinessObject\\Models\\ProjectPrn211Context.cs",
               "ToolTip": "D:\\ProjectPRN211\\BussinessObject\\Models\\ProjectPrn211Context.cs",
               "RelativeToolTip": "..\\BussinessObject\\Models\\ProjectPrn211Context.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBgAAAAJAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAEwBwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:43:24.157Z"
+              "WhenOpened": "2024-10-04T19:43:24.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "BookBorrowingRegistrationForm.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\BussinessObject\\Models\\BookBorrowingRegistrationForm.cs",
               "RelativeDocumentMoniker": "..\\BussinessObject\\Models\\BookBorrowingRegistrationForm.cs",
@@ -180,11 +218,12 @@
               "RelativeToolTip": "..\\BussinessObject\\Models\\BookBorrowingRegistrationForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:43:22.924Z"
+              "WhenOpened": "2024-10-04T19:43:22.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\BussinessObject\\Models\\Book.cs",
               "RelativeDocumentMoniker": "..\\BussinessObject\\Models\\Book.cs",
@@ -192,11 +231,12 @@
               "RelativeToolTip": "..\\BussinessObject\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:43:21.883Z"
+              "WhenOpened": "2024-10-04T19:43:21.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\BussinessObject\\Models\\Author.cs",
               "RelativeDocumentMoniker": "..\\BussinessObject\\Models\\Author.cs",
@@ -204,7 +244,8 @@
               "RelativeToolTip": "..\\BussinessObject\\Models\\Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:43:19.7Z"
+              "WhenOpened": "2024-10-04T19:43:19.7Z",
+              "EditorCaption": ""
             }
           ]
         }

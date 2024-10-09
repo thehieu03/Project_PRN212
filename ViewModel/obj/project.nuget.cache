@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00LPqL5YIk8=",
+  "success": true,
+  "projectFilePath": "D:\\ProjectPRN211\\ViewModel\\ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieun\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

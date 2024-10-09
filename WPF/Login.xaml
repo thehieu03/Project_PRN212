@@ -5,15 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF"
         mc:Ignorable="d"
-         xmlns:local="clr-namespace:WPF.ViewModel"
                 xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:wpf="clr-namespace:System.Windows.Controls;assembly=PresentationFramework"
 
 ResizeMode="NoResize"
 Title="Đăng nhập" Height="400" Width="600">
-    <Window.DataContext>
-        <local:LoginViewModel />
-    </Window.DataContext>
     <Grid>
         <materialDesign:Card Width="504" Height="290" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#e0f7fa">
             <Grid>

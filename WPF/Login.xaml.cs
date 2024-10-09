@@ -10,7 +10,6 @@ namespace WPF
         public Login()
         {
             InitializeComponent();
-
         }
     }
 }
