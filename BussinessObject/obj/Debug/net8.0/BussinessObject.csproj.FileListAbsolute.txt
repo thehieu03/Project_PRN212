@@ -1,0 +1,15 @@
+D:\ProjectPRN211\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+D:\ProjectPRN211\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+D:\ProjectPRN211\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+D:\ProjectPRN211\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+D:\ProjectPRN211\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll
+D:\ProjectPRN211\BussinessObject\bin\Debug\net8.0\appsettings.json

@@ -1,0 +1,94 @@
+﻿<Window x:Class="WPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+         xmlns:local="clr-namespace:WPF.ViewModel"
+                xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:wpf="clr-namespace:System.Windows.Controls;assembly=PresentationFramework"
+
+ResizeMode="NoResize"
+Title="Đăng nhập" Height="400" Width="600">
+    <Window.DataContext>
+        <local:LoginViewModel />
+    </Window.DataContext>
+    <Grid>
+        <materialDesign:Card Width="504" Height="290" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#e0f7fa">
+            <Grid>
+                <Grid.Resources>
+                    <Style TargetType="Grid">
+                        <Setter Property="Margin" Value="20 20 20 0"></Setter>
+                    </Style>
+                </Grid.Resources>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <TextBox x:Name="txtUser"   Text="{Binding Username,UpdateSourceTrigger=PropertyChanged}"
+                      VerticalAlignment="Center"  
+                      materialDesign:HintAssist.Hint="Tên đăng nhập"  
+                      Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <PasswordBox
+  x:Name="PasswordBox"
+  materialDesign:HintAssist.Hint="Password" />
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Button                             
+                          Content="Đăng nhập"  
+                          Background="Green"
+                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"  
+                          Style="{StaticResource MaterialDesignRaisedButton}" 
+                          ToolTip="Resource name: MaterialDesignRaisedButton"
+                          Command="{Binding LoginCommand}"
+/>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Button
+                          Content="Đăng ký"  
+                          Background="Red"
+                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                          Style="{StaticResource MaterialDesignRaisedButton}"
+                          ToolTip="Resource name: MaterialDesignRaisedButton"
+                          Command="{Binding RegesterCommand}"
+/>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <Button
+                          Content="Quên mk"  
+                          Background="Red"
+                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                          Style="{StaticResource MaterialDesignRaisedButton}"
+                          ToolTip="Resource name: MaterialDesignRaisedButton"
+                          Command="{Binding ForgotPasswordCommend}"
+/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </materialDesign:Card>
+        <Label 
+    Content="BookVerse" 
+    HorizontalAlignment="Center" 
+    VerticalAlignment="Top" 
+    HorizontalContentAlignment="Center" 
+    VerticalContentAlignment="Center"
+            FontWeight="Bold"
+            
+    FontSize="25"
+            Margin="0,47,0,0" 
+    Width="328"
+/>
+    </Grid>
+</Window>

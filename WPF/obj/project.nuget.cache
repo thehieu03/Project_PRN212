@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipTjqW8uLUk=",
+  "success": true,
+  "projectFilePath": "D:\\ProjectPRN211\\WPF\\WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieun\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\hieun\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\hieun\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\hieun\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
