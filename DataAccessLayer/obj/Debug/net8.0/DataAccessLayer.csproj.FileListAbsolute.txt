@@ -1,0 +1,17 @@
+D:\ProjectPRN211\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\ProjectPRN211\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\ProjectPRN211\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\ProjectPRN211\DataAccessLayer\bin\Debug\net8.0\appsettings.json
+D:\ProjectPRN211\DataAccessLayer\bin\Debug\net8.0\BussinessObject.dll
+D:\ProjectPRN211\DataAccessLayer\bin\Debug\net8.0\BussinessObject.pdb
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProjectPRN211\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date

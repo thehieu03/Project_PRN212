@@ -1,0 +1,12 @@
+D:\ProjectPRN211\Responsitories\bin\Debug\net8.0\Responsitories.deps.json
+D:\ProjectPRN211\Responsitories\bin\Debug\net8.0\Responsitories.dll
+D:\ProjectPRN211\Responsitories\bin\Debug\net8.0\Responsitories.pdb
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.AssemblyInfoInputs.cache
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.AssemblyInfo.cs
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.csproj.CoreCompileInputs.cache
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.sourcelink.json
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.dll
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\refint\Responsitories.dll
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\Responsitories.pdb
+D:\ProjectPRN211\Responsitories\obj\Debug\net8.0\ref\Responsitories.dll

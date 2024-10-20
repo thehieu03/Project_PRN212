@@ -15,7 +15,13 @@ public partial class Book
 
     public int? AuthorId { get; set; }
 
+    public int? Quantity { get; set; }
+
+    public int? CategoryId { get; set; }
+
     public virtual Author? Author { get; set; }
 
     public virtual ICollection<BookBorrowingRegistrationForm> BookBorrowingRegistrationForms { get; set; } = new List<BookBorrowingRegistrationForm>();
+
+    public virtual CategoryBook? Category { get; set; }
 }

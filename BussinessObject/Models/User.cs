@@ -15,5 +15,9 @@ public partial class User
 
     public int? RoleId { get; set; }
 
+    public string? UserAddress { get; set; }
+
     public virtual ICollection<BookBorrowingRegistrationForm> BookBorrowingRegistrationForms { get; set; } = new List<BookBorrowingRegistrationForm>();
+
+    public virtual ICollection<LateFee> LateFees { get; set; } = new List<LateFee>();
 }

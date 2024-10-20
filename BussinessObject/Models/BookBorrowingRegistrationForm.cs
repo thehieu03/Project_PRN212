@@ -13,7 +13,11 @@ public partial class BookBorrowingRegistrationForm
 
     public DateOnly? LoanBorowing { get; set; }
 
+    public DateOnly? PaymentDate { get; set; }
+
     public virtual Book? Book { get; set; }
 
     public virtual User? IdNavigation { get; set; }
+
+    public virtual ICollection<LateFee> LateFees { get; set; } = new List<LateFee>();
 }
