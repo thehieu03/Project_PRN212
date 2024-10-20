@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessObject", "..\Bussi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{718CE48D-BDCB-4BF4-8DE8-EA8739186149}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Responsitories", "..\Responsitories\Responsitories.csproj", "{9344D086-E8B5-40C6-989D-A3F9F5584B4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Responsitory", "..\Responsitory\Responsitory.csproj", "{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{718CE48D-BDCB-4BF4-8DE8-EA8739186149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718CE48D-BDCB-4BF4-8DE8-EA8739186149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{718CE48D-BDCB-4BF4-8DE8-EA8739186149}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9344D086-E8B5-40C6-989D-A3F9F5584B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9344D086-E8B5-40C6-989D-A3F9F5584B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9344D086-E8B5-40C6-989D-A3F9F5584B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9344D086-E8B5-40C6-989D-A3F9F5584B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,5 +9,10 @@ namespace DataAccessLayer
             var connext = UserDAO.GetContext();
             return connext.Users.ToList();
         }
+        public User getUser(string username, string password)
+        {
+            var connext = UserDAO.GetContext();
+            return connext.Users.FirstOrDefault(c => c.UserName.Equals(username) && c.PassWord.Equals(password));
+        }
     }
 }

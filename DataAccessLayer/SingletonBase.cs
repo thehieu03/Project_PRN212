@@ -23,6 +23,10 @@ namespace DataAccessLayer
         }
         public static ProjectPrn211Context GetContext()
         {
+            if (_context == null)
+            {
+                _context = new ProjectPrn211Context();
+            }
             return _context;
         }
     }

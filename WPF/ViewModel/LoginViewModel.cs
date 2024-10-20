@@ -1,12 +1,11 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
-
-namespace WPF.ViewModel
+﻿namespace Responsitories
 {
-    public partial class LoginViewModel : ObservableObject
+    public class LoginViewModel
     {
-        [ObservableProperty]
-        private string username;
-        [ObservableProperty]
-        private string password;
+
+        public LoginViewModel()
+        {
+        }
+
     }
 }

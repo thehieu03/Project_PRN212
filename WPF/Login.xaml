@@ -3,13 +3,13 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WPF"
         mc:Ignorable="d"
                 xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:wpf="clr-namespace:System.Windows.Controls;assembly=PresentationFramework"
 
 ResizeMode="NoResize"
 Title="Đăng nhập" Height="400" Width="600">
+
     <Grid>
         <materialDesign:Card Width="504" Height="290" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#e0f7fa">
             <Grid>
@@ -24,7 +24,7 @@ Title="Đăng nhập" Height="400" Width="600">
                     <RowDefinition></RowDefinition>
                 </Grid.RowDefinitions>
                 <Grid Grid.Row="0">
-                    <TextBox x:Name="txtUser"   Text="{Binding Username,UpdateSourceTrigger=PropertyChanged}"
+                    <TextBox x:Name="txtUser"
                       VerticalAlignment="Center"  
                       materialDesign:HintAssist.Hint="Tên đăng nhập"  
                       Style="{StaticResource MaterialDesignFloatingHintTextBox}"
@@ -48,7 +48,7 @@ Title="Đăng nhập" Height="400" Width="600">
                           IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"  
                           Style="{StaticResource MaterialDesignRaisedButton}" 
                           ToolTip="Resource name: MaterialDesignRaisedButton"
-                          Command="{Binding LoginCommand}"
+                          Command="{Binding LoginCommand}" Click="Button_Click"
 />
                     </Grid>
                     <Grid Grid.Column="1">
