@@ -44,31 +44,27 @@ Title="Đăng nhập" Height="400" Width="600">
                     <Grid Grid.Column="0">
                         <Button                             
                           Content="Đăng nhập"  
-                          Background="Green"
-                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"  
+                          Background="Green" 
                           Style="{StaticResource MaterialDesignRaisedButton}" 
                           ToolTip="Resource name: MaterialDesignRaisedButton"
-                          Command="{Binding LoginCommand}" Click="Button_Click"
+                           Click="Button_Click"
 />
                     </Grid>
                     <Grid Grid.Column="1">
                         <Button
                           Content="Đăng ký"  
                           Background="Red"
-                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
                           Style="{StaticResource MaterialDesignRaisedButton}"
                           ToolTip="Resource name: MaterialDesignRaisedButton"
-                          Command="{Binding RegesterCommand}"
+                           Click="Button_Click_1"
 />
                     </Grid>
                     <Grid Grid.Column="2">
                         <Button
                           Content="Quên mk"  
                           Background="Red"
-                          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
                           Style="{StaticResource MaterialDesignRaisedButton}"
                           ToolTip="Resource name: MaterialDesignRaisedButton"
-                          Command="{Binding ForgotPasswordCommend}"
 />
                     </Grid>
                 </Grid>

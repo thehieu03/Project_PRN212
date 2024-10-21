@@ -132,6 +132,7 @@ public partial class ProjectPrn211Context : DbContext
             entity.Property(e => e.Email)
                 .HasMaxLength(50)
                 .HasColumnName("email");
+            entity.Property(e => e.Gender).HasColumnName("gender");
             entity.Property(e => e.PassWord).HasColumnName("pass_word");
             entity.Property(e => e.RoleId).HasColumnName("role_id");
             entity.Property(e => e.UserAddress)

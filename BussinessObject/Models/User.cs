@@ -13,6 +13,8 @@ public partial class User
 
     public string? Email { get; set; }
 
+    public bool? Gender { get; set; }
+
     public int? RoleId { get; set; }
 
     public string? UserAddress { get; set; }

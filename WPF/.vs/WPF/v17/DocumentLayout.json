@@ -3,53 +3,12 @@
   "WorkspaceRootPath": "D:\\ProjectPRN211\\WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\customer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:customer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{718CE48D-BDCB-4BF4-8DE8-EA8739186149}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\projectprn211\\dataaccesslayer\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{718CE48D-BDCB-4BF4-8DE8-EA8739186149}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\projectprn211\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A3757-4F17-4E87-9042-2D7EC9CCF412}|..\\BussinessObject\\BussinessObject.csproj|d:\\projectprn211\\bussinessobject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\validate\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:validate\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}|..\\Responsitory\\Responsitory.csproj|d:\\projectprn211\\responsitory\\implementations\\userresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -58,15 +17,35 @@
       "AbsoluteMoniker": "D:0:0:{2A7A233D-851F-41DD-A2CB-AEFC471D7C43}|..\\Responsitory\\Responsitory.csproj|d:\\projectprn211\\responsitory\\contracts\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{718CE48D-BDCB-4BF4-8DE8-EA8739186149}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\projectprn211\\dataaccesslayer\\authordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{718CE48D-BDCB-4BF4-8DE8-EA8739186149}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\projectprn211\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectPRN211\\WPF\\obj\\Debug\\net8.0-windows\\Login.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\Login.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|d:\\projectprn211\\wpf\\wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D95ECD73-858A-4000-910F-E2A32C179FF9}|WPF.csproj|solutionrelative:wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,7 +55,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,230 +84,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Customer.xaml.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Customer.xaml.cs",
-              "RelativeDocumentMoniker": "Customer.xaml.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\Customer.xaml.cs",
-              "RelativeToolTip": "Customer.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "Validate.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\validate\\Validate.cs",
+              "RelativeDocumentMoniker": "validate\\Validate.cs",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\validate\\Validate.cs",
+              "RelativeToolTip": "validate\\Validate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:12:36.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Customer.xaml",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Customer.xaml",
-              "RelativeDocumentMoniker": "Customer.xaml",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\Customer.xaml",
-              "RelativeToolTip": "Customer.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T18:12:33.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerViewModel.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\viewModel\\CustomerViewModel.cs",
-              "RelativeDocumentMoniker": "viewModel\\CustomerViewModel.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\viewModel\\CustomerViewModel.cs",
-              "RelativeToolTip": "viewModel\\CustomerViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:11:35.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SingletonBase.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\DataAccessLayer\\SingletonBase.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLayer\\SingletonBase.cs",
-              "ToolTip": "D:\\ProjectPRN211\\DataAccessLayer\\SingletonBase.cs",
-              "RelativeToolTip": "..\\DataAccessLayer\\SingletonBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:43:43.648Z",
+              "WhenOpened": "2024-10-21T08:51:16.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Admin.xaml.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Admin.xaml.cs",
-              "RelativeDocumentMoniker": "Admin.xaml.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\Admin.xaml.cs",
-              "RelativeToolTip": "Admin.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:59:32.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminViewModel.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\viewModel\\AdminViewModel.cs",
-              "RelativeDocumentMoniker": "viewModel\\AdminViewModel.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\viewModel\\AdminViewModel.cs",
-              "RelativeToolTip": "viewModel\\AdminViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:57:50.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Admin.xaml",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Admin.xaml",
-              "RelativeDocumentMoniker": "Admin.xaml",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\Admin.xaml",
-              "RelativeToolTip": "Admin.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T17:56:46.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\BussinessObject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\BussinessObject\\Models\\User.cs",
-              "ToolTip": "D:\\ProjectPRN211\\BussinessObject\\Models\\User.cs",
-              "RelativeToolTip": "..\\BussinessObject\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:52:17.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthorDAO.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\DataAccessLayer\\AuthorDAO.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLayer\\AuthorDAO.cs",
-              "ToolTip": "D:\\ProjectPRN211\\DataAccessLayer\\AuthorDAO.cs",
-              "RelativeToolTip": "..\\DataAccessLayer\\AuthorDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:43:04.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "UserResponsitory.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\Responsitory\\Implementations\\UserResponsitory.cs",
               "RelativeDocumentMoniker": "..\\Responsitory\\Implementations\\UserResponsitory.cs",
               "ToolTip": "D:\\ProjectPRN211\\Responsitory\\Implementations\\UserResponsitory.cs",
               "RelativeToolTip": "..\\Responsitory\\Implementations\\UserResponsitory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:42:15.935Z",
+              "WhenOpened": "2024-10-21T08:42:45.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\DataAccessLayer\\UserDAO.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLayer\\UserDAO.cs",
-              "ToolTip": "D:\\ProjectPRN211\\DataAccessLayer\\UserDAO.cs",
-              "RelativeToolTip": "..\\DataAccessLayer\\UserDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:35:38.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "IUser.cs",
               "DocumentMoniker": "D:\\ProjectPRN211\\Responsitory\\Contracts\\IUser.cs",
               "RelativeDocumentMoniker": "..\\Responsitory\\Contracts\\IUser.cs",
               "ToolTip": "D:\\ProjectPRN211\\Responsitory\\Contracts\\IUser.cs",
               "RelativeToolTip": "..\\Responsitory\\Contracts\\IUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T16:35:25.317Z",
+              "WhenOpened": "2024-10-21T08:42:27.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "D:\\ProjectPRN211\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:40:52.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
               "ToolTip": "D:\\ProjectPRN211\\WPF\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T16:23:33.994Z",
+              "WhenOpened": "2024-10-21T06:17:39.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.g.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\obj\\Debug\\net8.0-windows\\Login.g.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\Login.g.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\obj\\Debug\\net8.0-windows\\Login.g.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\Login.g.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAxwCMAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAtwDwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:42:59.789Z"
+              "WhenOpened": "2024-10-21T06:16:22.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Login.xaml",
               "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Login.xaml",
               "RelativeDocumentMoniker": "Login.xaml",
               "ToolTip": "D:\\ProjectPRN211\\WPF\\Login.xaml",
               "RelativeToolTip": "Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T15:37:52.038Z",
+              "WhenOpened": "2024-10-21T06:16:18.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\viewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "viewModel\\LoginViewModel.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\viewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "viewModel\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAJAAAA",
+              "DocumentIndex": 10,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\viewModel\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "viewModel\\CustomerViewModel.cs",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\viewModel\\CustomerViewModel.cs",
+              "RelativeToolTip": "viewModel\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:34:49.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:28:56.131Z",
+              "WhenOpened": "2024-10-21T06:12:56.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "Login.xaml.cs",
-              "ToolTip": "D:\\ProjectPRN211\\WPF\\Login.xaml.cs",
-              "RelativeToolTip": "Login.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABNAAAA",
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\viewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "viewModel\\RegisterViewModel.cs",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\viewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "viewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:28:53.772Z",
+              "WhenOpened": "2024-10-21T06:12:48.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Register.xaml.cs",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\Register.xaml.cs",
+              "RelativeToolTip": "Register.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:12:34.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WPF",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\WPF.csproj",
+              "RelativeDocumentMoniker": "WPF.csproj",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\WPF.csproj",
+              "RelativeToolTip": "WPF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T06:08:11.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4108aa6b-b23b-4401-8fd2-f38a0c13fdd7",
+        "Display": 1,
+        "X": -5,
+        "Y": 34,
+        "Width": 1546,
+        "Height": 787,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "D:\\ProjectPRN211\\WPF\\Register.xaml",
+              "RelativeDocumentMoniker": "Register.xaml",
+              "ToolTip": "D:\\ProjectPRN211\\WPF\\Register.xaml",
+              "RelativeToolTip": "Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T06:08:25.207Z",
               "EditorCaption": ""
             }
           ]

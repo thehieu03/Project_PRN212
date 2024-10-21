@@ -56,5 +56,12 @@ namespace WPF
                     break;
             }
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Register r = new Register();
+            r.Show();
+            this.Close();
+        }
     }
 }
