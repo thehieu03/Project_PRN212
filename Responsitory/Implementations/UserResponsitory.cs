@@ -13,5 +13,7 @@ namespace Responsitory.Implementations
         public User GetUser(string username, string password) => UserDAO.Instance.getUser(username, password);
 
         public void InsertUser(User user) => UserDAO.Instance.insertUser(user);
+
+        public void updatePassword(string email, string password) => UserDAO.Instance.updatePassword(email, password);
     }
 }

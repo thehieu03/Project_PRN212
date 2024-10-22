@@ -5,6 +5,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF"
+        WindowStartupLocation="CenterScreen"
         mc:Ignorable="d"
           Title="User Setup" Height="400" Width="669">
     <Window.Resources>
@@ -73,11 +74,11 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal" Margin="5">
                 <TextBlock Text="OTP Code" Width="100" VerticalAlignment="Center" FontFamily="Times New Roman"/>
-                <TextBox Text="{Binding OtpCode}" x:Name="txtOTP" Width="199" />
-                <Button Content="OTP" Width="51" Margin="5,0,0,0" Background="#FF26B2FB" />
+                <TextBox   Text="{Binding OtpCodeText,Mode=TwoWay}"   x:Name="txtOTP" Width="199" />
+                <Button Command="{Binding OtpCodeCommand}"  Content="OTP" Width="51" Margin="5,0,0,0" Background="#FF26B2FB" />
             </StackPanel>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="30,0,0,0">
-                <Button Content="Cancel" Width="100" Margin="5" BorderBrush="#FF00A7FF" Background="#FF24B4FF" FontFamily="Times New Roman" />
+                <Button Command="{Binding LoginCommand}" Content="Login" Width="100" Margin="5" BorderBrush="#FF00A7FF" Background="#FF24B4FF" FontFamily="Times New Roman" />
                 <Button Command="{Binding SaveCommand}" Content="Save" Width="100" Margin="5"  BorderBrush="#FF00A7FF" Background="#FF26B2FB" FontFamily="Times New Roman" />
             </StackPanel>
         </StackPanel>

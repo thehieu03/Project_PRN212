@@ -8,5 +8,6 @@ namespace Responsitory.dal
         void InsertUser(User user);
         bool checkUserNameExits(string username);
         bool checkEmailExits(string email);
+        void updatePassword(string email, string password);
     }
 }

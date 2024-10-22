@@ -8,7 +8,11 @@ namespace WPF
         public Register()
         {
             InitializeComponent();
-            DataContext = new RegisterViewModel();
+            var viewModel = new RegisterViewModel();
+            DataContext = viewModel;
+            viewModel.CloseAction = new Action(this.Close);
+
+
         }
     }
 }

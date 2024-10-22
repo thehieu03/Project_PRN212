@@ -6,7 +6,7 @@
         mc:Ignorable="d"
                 xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:wpf="clr-namespace:System.Windows.Controls;assembly=PresentationFramework"
-
+        WindowStartupLocation="CenterScreen"
 ResizeMode="NoResize"
 Title="Đăng nhập" Height="400" Width="600">
 
@@ -64,7 +64,7 @@ Title="Đăng nhập" Height="400" Width="600">
                           Content="Quên mk"  
                           Background="Red"
                           Style="{StaticResource MaterialDesignRaisedButton}"
-                          ToolTip="Resource name: MaterialDesignRaisedButton"
+                          ToolTip="Resource name: MaterialDesignRaisedButton" Click="Button_Click_2"
 />
                     </Grid>
                 </Grid>

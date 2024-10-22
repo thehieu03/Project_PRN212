@@ -31,5 +31,16 @@ namespace DataAccessLayer
             var context = UserDAO.GetContext();
             return context.Users.Any(c => c.Email.Equals(username));
         }
+        public void updatePassword(string email, string password)
+        {
+            var context = UserDAO.GetContext();
+            User user = context.Users.FirstOrDefault(c => c.Email.Equals(email));
+            if (user != null)
+            {
+                user.PassWord = password;
+                context.SaveChanges();
+            }
+
+        }
     }
 }

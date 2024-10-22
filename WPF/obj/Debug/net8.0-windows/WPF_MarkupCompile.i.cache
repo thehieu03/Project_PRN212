@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\ProjectPRN211\WPF\App.xaml
-4-1039041833
+5449897965
 
-14-433526833
+161610153808
 2451706713675
-Admin.xaml;Customer.xaml;Login.xaml;Register.xaml;
+Admin.xaml;Customer.xaml;Login.xaml;Register.xaml;ResetPassword.xaml;
 
-False
+True
 

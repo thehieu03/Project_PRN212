@@ -12,11 +12,11 @@
         }
         public bool checkEmail(string value)
         {
-            if (string.IsNullOrEmpty(value) && value.Contains("@gmail.com"))
+            if (value.Contains("@gmail.com"))
             {
-                return true;
+                return false;
             }
-            return false;
+            return true;
         }
     }
 }
