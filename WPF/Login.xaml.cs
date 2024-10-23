@@ -19,7 +19,7 @@ namespace WPF
             _iUser = new UserResponsitory();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private async void Button_Click(object sender, RoutedEventArgs e)
         {
             string userName = txtUser.Text;
             string passWord = PasswordBox.Password;
@@ -33,7 +33,7 @@ namespace WPF
                 MessageBox.Show("Enter the PassWord");
                 return;
             }
-            var user = _iUser.GetUser(userName, passWord);
+            var user = await _iUser.GetUserAsync(userName, passWord);
             if (user == null)
             {
                 MessageBox.Show("Login that bai");

@@ -6,14 +6,29 @@ namespace Responsitory.Implementations
 {
     public class UserResponsitory : IUser
     {
-        public bool checkEmailExits(string email) => UserDAO.Instance.checkEmailExits(email);
+        public async Task<bool> CheckEmailExistsAsync(string email)
+        {
+            return await UserDAO.Instance.CheckEmailExistsAsync(email);
+        }
 
-        public bool checkUserNameExits(string username) => UserDAO.Instance.checkUserNameExits(username);
+        public async Task<bool> CheckUserNameExistsAsync(string username)
+        {
+            return await UserDAO.Instance.CheckUserNameExistsAsync(username);
+        }
 
-        public User GetUser(string username, string password) => UserDAO.Instance.getUser(username, password);
+        public async Task<User> GetUserAsync(string username, string password)
+        {
+            return await UserDAO.Instance.GetUserAsync(username, password);
+        }
 
-        public void InsertUser(User user) => UserDAO.Instance.insertUser(user);
+        public async Task InsertUserAsync(User user)
+        {
+            await UserDAO.Instance.InsertUserAsync(user);
+        }
 
-        public void updatePassword(string email, string password) => UserDAO.Instance.updatePassword(email, password);
+        public async Task UpdatePasswordAsync(string email, string password)
+        {
+            await UserDAO.Instance.UpdatePasswordAsync(email, password);
+        }
     }
 }

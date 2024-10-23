@@ -2772,11 +2772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectPRN211\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\PRN211111\\Project_PRN212\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\ProjectPRN211\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\PRN211111\\Project_PRN212\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\hieun\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectPRN211\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\PRN211111\\Project_PRN212\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hieun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2794,8 +2794,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ProjectPRN211\\BussinessObject\\BussinessObject.csproj": {
-              "projectPath": "D:\\ProjectPRN211\\BussinessObject\\BussinessObject.csproj"
+            "D:\\PRN211111\\Project_PRN212\\BussinessObject\\BussinessObject.csproj": {
+              "projectPath": "D:\\PRN211111\\Project_PRN212\\BussinessObject\\BussinessObject.csproj"
             }
           }
         }

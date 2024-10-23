@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectPRN211\\BussinessObject\\BussinessObject.csproj",
+      "projectUniqueName": "D:\\PRN211111\\Project_PRN212\\BussinessObject\\BussinessObject.csproj",
       "projectName": "BussinessObject",
-      "projectPath": "D:\\ProjectPRN211\\BussinessObject\\BussinessObject.csproj",
+      "projectPath": "D:\\PRN211111\\Project_PRN212\\BussinessObject\\BussinessObject.csproj",
       "packagesPath": "C:\\Users\\hieun\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectPRN211\\BussinessObject\\obj\\",
+      "outputPath": "D:\\PRN211111\\Project_PRN212\\BussinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hieun\\AppData\\Roaming\\NuGet\\NuGet.Config",

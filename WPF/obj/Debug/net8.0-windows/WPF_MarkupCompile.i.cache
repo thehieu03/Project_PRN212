@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\ProjectPRN211\WPF\obj\Debug\net8.0-windows\
+D:\PRN211111\Project_PRN212\WPF\obj\Debug\net8.0-windows\
 WPF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\ProjectPRN211\WPF\App.xaml
-5449897965
+D:\PRN211111\Project_PRN212\WPF\App.xaml
+61829154185
 
-161610153808
-2451706713675
-Admin.xaml;Customer.xaml;Login.xaml;Register.xaml;ResetPassword.xaml;
+17-590178561
+245-1969742782
+Admin.xaml;Customer.xaml;Login.xaml;LoginNew.xaml;Register.xaml;ResetPassword.xaml;
 
 True
 

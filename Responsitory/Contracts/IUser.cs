@@ -4,10 +4,10 @@ namespace Responsitory.dal
 {
     public interface IUser
     {
-        User GetUser(string username, string password);
-        void InsertUser(User user);
-        bool checkUserNameExits(string username);
-        bool checkEmailExits(string email);
-        void updatePassword(string email, string password);
+        Task<User> GetUserAsync(string username, string password);
+        Task InsertUserAsync(User user);
+        Task<bool> CheckUserNameExistsAsync(string username);
+        Task<bool> CheckEmailExistsAsync(string email);
+        Task UpdatePasswordAsync(string email, string password);
     }
 }

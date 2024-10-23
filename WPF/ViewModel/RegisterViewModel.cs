@@ -29,14 +29,14 @@ namespace WPF.viewModel
         [ObservableProperty]
         private int? otpCodeText;
         [RelayCommand]
-        private void Save()
+        private async void Save()
         {
             if (v.checkStringIsNull(Username))
             {
                 MessageBox.Show("Enter the username");
                 return;
             }
-            if (iUser.checkUserNameExits(Username))
+            if (await iUser.CheckUserNameExistsAsync(Username))
             {
                 MessageBox.Show("UserName đã được sử dụng");
                 return;
@@ -46,7 +46,7 @@ namespace WPF.viewModel
                 MessageBox.Show("Email khong hợp lệ");
                 return;
             }
-            if (iUser.checkEmailExits(Email))
+            if (await iUser.CheckEmailExistsAsync(Email))
             {
                 MessageBox.Show("Email đã được sử dụng");
             }
@@ -71,7 +71,7 @@ namespace WPF.viewModel
             };
             if (OtpCodeText == otp)
             {
-                iUser.InsertUser(u);
+                await iUser.InsertUserAsync(u);
                 MessageBox.Show("Đăng kí thành công");
             }
             else
@@ -82,14 +82,14 @@ namespace WPF.viewModel
         Random r = new Random();
         int? otp;
         [RelayCommand]
-        private void OtpCode()
+        private async void OtpCode()
         {
             if (v.checkEmail(Email))
             {
                 MessageBox.Show("Email khong hợp lệ");
                 return;
             }
-            if (iUser.checkEmailExits(Email))
+            if (await iUser.CheckEmailExistsAsync(Email))
             {
                 MessageBox.Show("Email đã được sử dụng");
                 return;

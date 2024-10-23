@@ -33,6 +33,9 @@
     <Page Update="Login.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="LoginNew.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Register.xaml">
       <SubType>Designer</SubType>
     </Page>

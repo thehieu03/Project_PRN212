@@ -3138,11 +3138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectPRN211\\WPF\\WPF.csproj",
+      "projectUniqueName": "D:\\PRN211111\\Project_PRN212\\WPF\\WPF.csproj",
       "projectName": "WPF",
-      "projectPath": "D:\\ProjectPRN211\\WPF\\WPF.csproj",
+      "projectPath": "D:\\PRN211111\\Project_PRN212\\WPF\\WPF.csproj",
       "packagesPath": "C:\\Users\\hieun\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectPRN211\\WPF\\obj\\",
+      "outputPath": "D:\\PRN211111\\Project_PRN212\\WPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hieun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3160,8 +3160,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\ProjectPRN211\\Responsitory\\Responsitory.csproj": {
-              "projectPath": "D:\\ProjectPRN211\\Responsitory\\Responsitory.csproj"
+            "D:\\PRN211111\\Project_PRN212\\Responsitory\\Responsitory.csproj": {
+              "projectPath": "D:\\PRN211111\\Project_PRN212\\Responsitory\\Responsitory.csproj"
             }
           }
         }

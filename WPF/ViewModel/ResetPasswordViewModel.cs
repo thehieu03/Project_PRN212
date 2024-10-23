@@ -24,14 +24,14 @@ namespace WPF.viewModel
         Random r = new Random();
         int? otp;
         [RelayCommand]
-        private void Otp()
+        private async void Otp()
         {
             if (v.checkEmail(Email))
             {
                 MessageBox.Show("Email khong dung dinh danng");
                 return;
             }
-            if (!iuser.checkEmailExits(Email))
+            if (!await iuser.CheckEmailExistsAsync(Email))
             {
                 MessageBox.Show("Email nay chưa được đăng kí");
                 return;
@@ -70,14 +70,14 @@ namespace WPF.viewModel
             }
         }
         [RelayCommand]
-        public void Change()
+        public async void Change()
         {
             if (v.checkEmail(Email))
             {
                 MessageBox.Show("Email không hợp lệ");
                 return;
             }
-            if (!iuser.checkEmailExits(Email))
+            if (!await iuser.CheckEmailExistsAsync(Email))
             {
                 MessageBox.Show("Email đã được đăng kí");
                 return;
@@ -107,7 +107,7 @@ namespace WPF.viewModel
                 MessageBox.Show("Mã OTP sai!");
                 return;
             }
-            iuser.updatePassword(Email, PasswordNew1);
+            await iuser.UpdatePasswordAsync(Email, PasswordNew1);
             MessageBox.Show("Thay đổi mật khẩu thành công");
             Login login = new Login();
             login.Show();

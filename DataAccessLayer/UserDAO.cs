@@ -1,46 +1,45 @@
 ﻿using BussinessObject.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer
 {
     public class UserDAO : SingletonBase<UserDAO>
     {
-
-        public List<User> GetUsers()
-        {
-            var connext = UserDAO.GetContext();
-            return connext.Users.ToList();
-        }
-        public User getUser(string username, string password)
-        {
-            var connext = UserDAO.GetContext();
-            return connext.Users.FirstOrDefault(c => c.UserName.Equals(username) && c.PassWord.Equals(password));
-        }
-        public void insertUser(User user)
+        public async Task<List<User>> GetUsersAsync()
         {
             var context = UserDAO.GetContext();
-            context.Users.Add(user);
-            context.SaveChanges();
+            return await context.Users.ToListAsync();
         }
-        public bool checkUserNameExits(string username)
+        public async Task<User> GetUserAsync(string username, string password)
         {
             var context = UserDAO.GetContext();
-            return context.Users.Any(c => c.UserName.Equals(username));
+            return await context.Users.FirstOrDefaultAsync(c => c.UserName.Equals(username) && c.PassWord.Equals(password));
         }
-        public bool checkEmailExits(string username)
+        public async Task InsertUserAsync(User user)
         {
             var context = UserDAO.GetContext();
-            return context.Users.Any(c => c.Email.Equals(username));
+            await context.Users.AddAsync(user);
+            await context.SaveChangesAsync();
         }
-        public void updatePassword(string email, string password)
+        public async Task<bool> CheckUserNameExistsAsync(string username)
         {
             var context = UserDAO.GetContext();
-            User user = context.Users.FirstOrDefault(c => c.Email.Equals(email));
+            return await context.Users.AnyAsync(c => c.UserName.Equals(username));
+        }
+        public async Task<bool> CheckEmailExistsAsync(string email)
+        {
+            var context = UserDAO.GetContext();
+            return await context.Users.AnyAsync(c => c.Email.Equals(email));
+        }
+        public async Task UpdatePasswordAsync(string email, string password)
+        {
+            var context = UserDAO.GetContext();
+            User user = await context.Users.FirstOrDefaultAsync(c => c.Email.Equals(email));
             if (user != null)
             {
                 user.PassWord = password;
-                context.SaveChanges();
+                await context.SaveChangesAsync();
             }
-
         }
     }
 }
